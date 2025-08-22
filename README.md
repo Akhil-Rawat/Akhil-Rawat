@@ -19,6 +19,15 @@
 </p>
 
 
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Akhil-Rawat&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+```
 
 
 ## Skills <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/code.gif?raw=true" alt="Skills Icon" width="40" height="40"/>

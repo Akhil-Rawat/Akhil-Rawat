@@ -38,6 +38,15 @@
 </p>
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
 
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Akhil-Rawat&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+```
 
 <!---
 Akhil-Rawat/Akhil-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

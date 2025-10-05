@@ -15,8 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/akhilrawat5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
   <a href="https://twitter.com/Faygo78akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a> 
-  <a href="https://github.com/Akhil-Rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" height="40" width="40" /></a>
-</p>
+  </p>
 
 
 

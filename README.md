@@ -42,6 +42,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ok_.akhil)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/728962441968170)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilrawat1)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akhilfaygo)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Faygo78akhil)
 <br> <br>
 <!-- MY SOCIAL HANDLES END -->

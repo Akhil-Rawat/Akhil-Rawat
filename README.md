@@ -1,51 +1,116 @@
+<!-- DIV START-->
 <div align="center">
-  
-# Hi <img src=https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif width="50px">, I'm Akhil Rawat #
-**Student at RJIT🧑‍🎓**
+
+
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
+<!-- AESTHETIC LINE END -->
+
+
+<!-- VISITIRS COUNT LINE START-->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%Akhil-Rawat%2FAkhil-Rawat&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
+<!-- VISITIRS COUNT LINE END -->
+
+
+<!-- WELCOME LINE START-->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&Code&weight=550&width=600&height=45&color=00FFFF&pause=9999999&size=15">
+<!-- WELCOME LINE END-->
+
+
+<!-- TYPING SVG/INTRO LINE START -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;2x%20Hackaton%20Winner;&center=true&width=650&height=45&color=00FFFF&font=Courgette&size=28">
+<!-- TYPING SVG/INTRO LINE END -->
+
+
+<!-- HACKATHON HEADING START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=HACKATHONS+I+WIN"/>
+<!-- HACKATHON HEADING END-->
+
+
+<!-- HACKATHON SECTION START-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+1st+Position+:+Arbitrum+Open+House+India;B)+-+4th+Position+:+Avalanche+Hacker+House+Delhi" /> <br>
+<!-- HACKATHON SECTION END-->
+
+
+               
+<!-- LET'S CONNECT TOGETHER LINE START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
+<!-- LET'S CONNECT TOGETHER LINE END -->
+
+
+<!-- MY SOCIAL HANDLES START -->
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ok_.akhil)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/728962441968170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilrawat1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Faygo78akhil)
+<br> <br>
+<!-- MY SOCIAL HANDLES END -->
+
+   
+<!-- MY SKILL'S HEADING START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=SKILL'S" />
+<!-- MY SKILL'S HEADING END-->
+
+
+<!-- MY SKILL'S START -->
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Eth.js](https://img.shields.io/badge/Eth.js-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=truffle&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Grainace](https://img.shields.io/badge/Grainace-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+<br> <br>
+<!-- MY SKILL'S END -->
+
+
+<!-- GITHUB STACK HEADING START-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
+<!-- GITHUB STACK HEADING END -->
+
+
+<!-- AQUA ACTIVITY GRAPH START -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Rawat&theme=github_dark"
+  style="border-radius:10px; filter: hue-rotate(180deg) saturate(200%) brightness(120%);"
+/>
+<!-- AQUA ACTIVITY GRAPH END -->
+
+
+
+<!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Rawat&show_icons=true&hide_rank=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=8" alt="GitHub Stats" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Rawat&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&border_radius=10&langs_count=8&hide_title=true" alt="Most Used Languages" height="180"/>
+    </td>
+  </tr>
+</table>
+<!-- STACK AND LANGUAGES SIDE-BY-SIDE END (TABLE METHOD) -->
+
+
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- AESTHETIC LINE END -->
+
+
 </div>
-
-- 🧑‍💻 I’m currently a IT student at RJIT.
-- 🌱 Currently learning Ethereum 🪙 and exploring Web3.js ₿ 
-- 💬 Ask me about Blockchain Technology ⛓️ and Machine Learning 🤖
-- 📫 How to reach me: rawatakhilvibh@gmail.com
-
-
-
-## Connect with me<img src=https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/gifs/handShake.gif width="100" height="50">
-<p align="left">
-  <a href="https://linkedin.com/in/akhilrawat5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://twitter.com/Faygo78akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a> 
-  </p>
-
-
-
-## Skills <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/code.gif?raw=true" alt="Skills Icon" width="40" height="40"/>
-
-
-<p align="left"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rust.svg" alt="Rust" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
-
-
-## Badges 🎖️
-<p align="left">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=hackerrank"/>
-  <img src="https://img.shields.io/badge/Level-4-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-OpenSource-blue?style=for-the-badge"/>
-</p>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
-
-
-<!---
-Akhil-Rawat/Akhil-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Akhil-Rawat&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
-```
+<!-- DIV END-->
+<!-- CODE END -->

@@ -1,117 +1,21 @@
-<!-- DIV START-->
-<div align="center">
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/728962441441968170) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilrawat1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Faygo78akhil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatakhilvibh@gmail.com) 
 
-<!-- AESTHETIC LINE START-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
-<!-- AESTHETIC LINE END -->
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akhil-Rawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akhil-Rawat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Rawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akhil-Rawat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- VISITIRS COUNT LINE START-->
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkhil-Rawat%2FAkhil-Rawat&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
-<!-- VISITIRS COUNT LINE END -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akhil-Rawat&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Akhil-Rawat&icon=8&color=10)](https://visitcount.itsvg.in)
 
-<!-- WELCOME LINE START-->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&Code&weight=550&width=600&height=45&color=00FFFF&pause=9999999&size=15">
-<!-- WELCOME LINE END-->
-
-
-<!-- TYPING SVG/INTRO LINE START -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;2x%20Hackaton%20Winner;&center=true&width=650&height=45&color=00FFFF&font=Courgette&size=28">
-<!-- TYPING SVG/INTRO LINE END -->
-
-
-<!-- HACKATHON HEADING START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=HACKATHONS+I+WIN"/>
-<!-- HACKATHON HEADING END-->
-
-
-<!-- HACKATHON SECTION START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+1st+Position+:+Arbitrum+Open+House+India;B)+-+4th+Position+:+Avalanche+Hacker+House+Delhi" /> <br>
-<!-- HACKATHON SECTION END-->
-
-
-               
-<!-- LET'S CONNECT TOGETHER LINE START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
-<!-- LET'S CONNECT TOGETHER LINE END -->
-
-
-<!-- MY SOCIAL HANDLES START -->
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ok_.akhil)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/728962441968170)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilrawat1)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akhilfaygo)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Faygo78akhil)
-<br> <br>
-<!-- MY SOCIAL HANDLES END -->
-
-   
-<!-- MY SKILL'S HEADING START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=SKILL'S" />
-<!-- MY SKILL'S HEADING END-->
-
-
-<!-- MY SKILL'S START -->
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Eth.js](https://img.shields.io/badge/Eth.js-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=truffle&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Grainace](https://img.shields.io/badge/Grainace-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-<br> <br>
-<!-- MY SKILL'S END -->
-
-
-<!-- GITHUB STACK HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
-<!-- GITHUB STACK HEADING END -->
-
-
-<!-- AQUA ACTIVITY GRAPH START -->
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Rawat&theme=github_dark"
-  style="border-radius:10px; filter: hue-rotate(180deg) saturate(200%) brightness(120%);"
-/>
-<!-- AQUA ACTIVITY GRAPH END -->
-
-
-
-<!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Rawat&show_icons=true&hide_rank=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=8" alt="GitHub Stats" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Rawat&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&border_radius=10&langs_count=8&hide_title=true" alt="Most Used Languages" height="180"/>
-    </td>
-  </tr>
-</table>
-<!-- STACK AND LANGUAGES SIDE-BY-SIDE END (TABLE METHOD) -->
-
-
-<!-- AESTHETIC LINE START-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!-- AESTHETIC LINE END -->
-
-
-</div>
-<!-- DIV END-->
-<!-- CODE END -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

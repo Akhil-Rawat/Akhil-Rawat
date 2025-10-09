@@ -8,7 +8,7 @@
 
 
 <!-- VISITIRS COUNT LINE START-->
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%Akhil-Rawat%2FAkhil-Rawat&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkhil-Rawat%2FAkhil-Rawat&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
 <!-- VISITIRS COUNT LINE END -->
 
 

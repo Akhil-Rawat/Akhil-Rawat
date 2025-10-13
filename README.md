@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  About Me:
 👋 Hey there! I'm Akhil Rawat<br><br>I’m a final-year engineering student passionate about Web3, full-stack development, and emerging blockchain ecosystems. Currently, I’m diving deeper into Rust to strengthen my systems programming and blockchain development skills.<br><br>💡 Hackathon Achievements:<br><br>🏆 Honorable Mention ($1500) — DeFi on Arbitrum Open House India: Online Buildathon<br><br>🥉 4th Place ($300) — Avalanche Team1 Hackathon: Delhi<br><br>🚀 I love building projects that blend real-world use cases with decentralized technologies, and I’m always exploring how to make Web3 more user-friendly and scalable.
 
 
